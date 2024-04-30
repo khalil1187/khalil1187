@@ -1,12 +1,10 @@
-![GitHub User's stars](https://img.shields.io/github/stars/khalil1187)
-
-
-
 ![1303457](https://github.com/khalil1187/khalil1187/assets/168208993/ddddb699-af86-4fcf-9f21-e8cd54a63c5d)"
 
 
 <p align="center">Olá meu nome é Pedro Khalil, sou novo nesta plataforma e no mundo da progração seja bem vindo ao meu perfil.</p>&nbsp;
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khalil1187&show_icons=true&theme=dark)
 
 ☼ M Y - S K I L L S
 
@@ -48,3 +46,4 @@
   
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+
